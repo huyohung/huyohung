@@ -1,5 +1,5 @@
 <h2> Hi, I'm Hùng <img src="https://media4.giphy.com/media/WrVOtWEay7fJS/200.gif" width="50"></h2>
-<p><em>Backend Developer at <a href="https://www.ntq-solution.com.vn/">NTQ Solution</a> 
+<p><em>Ruby on Rails Developer at <a href="https://www.ntq-solution.com.vn/">NTQ Solution</a> 
 </em></p>
 
 ### A little more about me...  
